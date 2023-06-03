@@ -1,0 +1,22 @@
+{
+  "name": "app1",
+  "version": "1.0.0",
+  "description": "prima descrizione progetto test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r73100/app1.git"
+  },
+  "keywords": [
+    "nuxt"
+  ],
+  "author": "riccardo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/r73100/app1/issues"
+  },
+  "homepage": "https://github.com/r73100/app1#readme"
+}
