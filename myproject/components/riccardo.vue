@@ -1,6 +1,7 @@
 <template>
     <div class="container">
-      <NuxtLogo />
+      
+      <h1>Riccardo welcome!</h1>
       <h1>Riccardo welcome!</h1>
     </div>
   </template>
@@ -21,7 +22,7 @@
   }
   
   h1 {
-    color: white;
+    color: yellow;
     text-align: center;
     font-family: helvetica, arial, sans-serif;
     font-weight: 400;
